@@ -1,1 +1,1 @@
-# Myo stinkt
+rust
